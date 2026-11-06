@@ -468,7 +468,7 @@ export default function Home() {
                     <Rocket className="h-5 w-5" />
                   </div>
                   <div className="space-y-1.5">
-                    <h4 className="text-base font-bold text-white">Countinuous Learning</h4>
+                    <h4 className="text-base font-bold text-white">Continuous Learning</h4>
                     <p className="text-xs sm:text-sm text-zinc-400 leading-relaxed">
                       Terus mengembangkan kemampuan dan mengikuti perkembangan teknologi
                     </p>
